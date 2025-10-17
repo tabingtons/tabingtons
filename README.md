@@ -9,7 +9,7 @@ I build things that make life simpler, smarter, or just a bit more fun — from 
 ### 🧠 What I’m Working On
 
 🚀 **[Dig Deeper](https://apps.apple.com/app/dig-deeper/id6472387394)** — a daily journaling app that helps you understand and name your emotions.  
-📱 **[Per 100](https://apps.apple.com/app/per-100/id6670795904)** — a simple way to compare prices and find the best value.
+📱 **[Per 100](https://apps.apple.com/app/per-100/id6670795904)** — a simple way to compare prices and find the best value.  
 💼 **Client Projects** — clean, modern websites for NZ businesses (more coming soon to [chaoticgoodcreations.co](https://www.chaoticgoodcreations.co)).
 
 ---
